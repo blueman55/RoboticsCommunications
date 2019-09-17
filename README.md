@@ -1,2 +1,2 @@
-# WorkRepo
-A repository for my work related code
+# RobotComs repo
+A repository for my robotics communications code
